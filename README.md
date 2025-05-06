@@ -84,7 +84,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/d12d66bd-8b22-438f-9529-937c7623e78c)
 
 ## Hardware experiment output waveform
-
+![WhatsApp Image 2025-05-06 at 12 43 53_ed8a84ca](https://github.com/user-attachments/assets/3af91a6e-8b9a-4521-81e7-cb174de63952)
 
 ## Results
 Flat Top Sampling was successfully simulated using a pulse train to sample a continuous-time message signal.
